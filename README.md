@@ -1,21 +1,27 @@
-# tagsview
+# tagsView 
 
-> A Vue.js project
+后台页面单独出来的tagsView功能，用于学习使用。
 
-## Build Setup
+## 如何安装与使用
 
-``` bash
-# install dependencies
-npm install
+npm install //安装依赖
 
-# serve with hot reload at localhost:8080
-npm run dev
+npm run dev //服务端运行
 
-# build for production with minification
-npm run build
+npm run build  //项目打包
 
-# build for production and view the bundle analyzer report
-npm run build --report
+## 技术栈
+
+```
+- Vue（核心框架）
+- Vue-Router（页面路由）
+- Vuex（状态管理）
+- Less（CSS预处理器）
+- element-ui(ui框架)
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+![简介图片](https://github.com/825118095/tagsView/git_img/cs.png)
+
+## 说明
+
+- 点击左侧导航添加tagsView
