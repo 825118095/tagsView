@@ -20,7 +20,7 @@ npm run build  //项目打包
 - element-ui(ui框架)
 ```
 
-![简介图片](https://github.com/825118095/tagsView/git_img/cs.png)
+![简介图片](https://github.com/825118095/tagsView/blob/master/git_img/cs.png)
 
 ## 说明
 
